@@ -17,6 +17,7 @@
 | **选型** | [01-tech-selection/tech-selection.md](./01-tech-selection/tech-selection.md) | 技术选型论证（含决策矩阵与 ADR） | Tech Lead |
 | **架构** | [02-architecture/architecture.md](./02-architecture/architecture.md) | 系统架构设计（进程模型/分层/模块） | Architect |
 | | [02-architecture/plugin-system.md](./02-architecture/plugin-system.md) | 插件系统设计（沙箱/权限/生命周期/应用市场） | Architect |
+| | [02-architecture/plugin-marketplace-design.md](./02-architecture/plugin-marketplace-design.md) | 插件机制与应用市场架构设计书（市场/上传安装/本地开发安装，落基座代码） | Architect |
 | | [02-architecture/data-sync.md](./02-architecture/data-sync.md) | 数据同步设计（增量同步/冲突解决/端到端加密） | Architect |
 | | [02-architecture/security.md](./02-architecture/security.md) | 安全设计（STRIDE 威胁建模/Electron 安全基线） | Security |
 | **详设** | [03-design/api-ipc.md](./03-design/api-ipc.md) | IPC 与接口契约设计（类型安全 IPC / 服务端 OpenAPI） | Dev |

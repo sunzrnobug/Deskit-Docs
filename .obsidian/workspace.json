@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "分工表.md",
+                "file": "02-architecture/plugin-marketplace-design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "分工表"
+              "title": "plugin-marketplace-design"
             }
           }
         ]
@@ -185,10 +185,19 @@
   },
   "active": "cbee214bcda1e1b3",
   "lastOpenFiles": [
-    "项目计划与进展.md",
+    "02-architecture/plugin-marketplace-design.md.tmp.22984.38c4a3add759",
+    "02-architecture/plugin-marketplace-design.md.tmp.22984.8715e25b4f5f",
+    "02-architecture/plugin-marketplace-design.md.tmp.22984.59f5420c2a72",
+    "02-architecture/plugin-marketplace-design.md.tmp.22984.55f4f871ee20",
+    "02-architecture/plugin-marketplace-design.md.tmp.22984.62267696d0be",
+    "02-architecture/plugin-marketplace-design.md.tmp.22984.49985de6e6c1",
+    "02-architecture/plugin-marketplace-design.md.tmp.22984.2b828acd1935",
+    "02-architecture/plugin-marketplace-design.md.tmp.22984.52d390e6278a",
+    "02-architecture/plugin-marketplace-design.md.tmp.22984.fda818ed0159",
+    "02-architecture/plugin-marketplace-design.md.tmp.22984.6b62a01a4085",
+    "02-architecture/plugin-marketplace-design.md.tmp.22984.d891a79130c7",
     "分工表.md",
-    "分工表.md.tmp.26716.52e2f6ad4c20",
-    "Deskit-Docs",
+    "项目计划与进展.md",
     "02-architecture/security.md",
     "02-architecture/plugin-system.md",
     "02-architecture/data-sync.md",
