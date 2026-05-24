@@ -38,9 +38,9 @@
 
 ---
 
-## ADR-002：UI 框架 → **React 18**
+## ADR-002：UI 框架 → **React 19**
 
-**候选**：React 18 / Vue 3 / Svelte / Solid
+**候选**：React 19 / Vue 3 / Svelte / Solid
 
 | 维度 | 权重 | React | Vue 3 | Svelte | Solid |
 | --- | --- | :---: | :---: | :---: | :---: |
@@ -52,7 +52,7 @@
 | 性能 | 15% | 4 | 4 | 5 | 5 |
 | **加权总分** | | **4.55** | **3.95** | **2.55** | **2.45** |
 
-**决策**：选 **React 18 + TypeScript（strict）**。
+**决策**：选 **React 19 + TypeScript（strict）**。
 **理由**：①字节/飞书内部 React 为主，与训练营目标生态一致；②Raycast 扩展即用 React，**插件作者复用同一心智**，利于生态；③Arco Design（字节自研）与 Radix UI 一线组件资源充沛；④并发特性（`useTransition`）利于"边输入边搜索"不卡顿。
 **代价**：相比 Vue 3 学习曲线略陡（uTools 用 Vue）→ 通过脚手架模板、ESLint 规则、组件库屏蔽复杂度。
 **状态**：Accepted。
@@ -200,7 +200,7 @@
 | ADR | 领域 | 结论 |
 | --- | --- | --- |
 | 001 | 外壳 | Electron 31+ |
-| 002 | UI | React 18 + TS strict |
+| 002 | UI | React 19 + TS strict |
 | 003 | 构建 | electron-vite + electron-builder |
 | 004 | 状态 | Zustand + TanStack Query |
 | 005 | 样式/主题 | Tailwind + CSS Variables + Radix（+Arco 可选） |

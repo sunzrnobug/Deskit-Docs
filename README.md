@@ -35,7 +35,7 @@
 | --- | --- | --- |
 | 桌面外壳 | **Electron 31+** | 生态成熟、竞品同栈、插件 Web 化最自然 |
 | 语言 | **TypeScript 5（strict）** | 大型工程类型安全基线 |
-| UI 框架 | **React 18** | 字节/飞书主流、人才池大、Raycast 同路线 |
+| UI 框架 | **React 19** | 字节/飞书主流、人才池大、Raycast 同路线 |
 | 构建 | **electron-vite + electron-builder** | 极速 HMR + 多平台打包/签名/更新一体 |
 | 状态管理 | **Zustand + TanStack Query** | 轻量本地态 + 服务端态分治 |
 | 样式/主题 | **Tailwind CSS + CSS Variables + Radix UI** | 原子化 + 运行时换肤 + 无障碍基元 |
